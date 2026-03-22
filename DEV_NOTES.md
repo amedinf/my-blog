@@ -22,3 +22,7 @@ Personal development log — notes, findings, and ongoing work.
 - Added CONTRIBUTING.md stub
 - Noted known limitation in docs
 - Ran linter, applied auto-fixes
+
+## 2026-03-23
+- Added basic retry logic for network requests
+- Ran linter, applied auto-fixes
