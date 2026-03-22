@@ -6,3 +6,8 @@ Personal development log — notes, findings, and ongoing work.
 - Added basic retry logic for network requests
 - Investigated performance bottleneck, noted findings
 - Bumped patch version
+
+## 2026-03-22
+- Tidied up project structure
+- Added healthcheck endpoint stub
+- Improved error handling in edge cases
